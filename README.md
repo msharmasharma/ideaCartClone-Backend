@@ -1,5 +1,5 @@
 
-# Ideakart - Unit 5 Backend 
+# Ideakart Clone - Unit 5 Backend 
 
 Ideakart is a site that gives u an idea about the book you want to buy. We offer a huge collection of books in diverse categories.
 
