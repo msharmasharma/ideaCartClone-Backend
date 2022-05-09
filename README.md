@@ -35,7 +35,7 @@ SnapShots
 
 ## Demo
 
-Github repo link:-  https://github.com/roshanarikar/IdeaCart-Clone
+Github repo link:-  https://github.com/msharmasharma/ideaCartClone-Backend/
 
 Deployed Link:-  https://ideakart-clone.netlify.app/
 
