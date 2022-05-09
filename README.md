@@ -12,10 +12,10 @@ We have a user friendly search engine and a quick delivery system. With this we 
 
 SnapShots
 
-![Photo](./src/components/Readme%20data/snap1.png)
-![Photo](./src/components/Readme%20data/snap2.png)
-![Photo](./src/components/Readme%20data/snap3.png)
-![Photo](./src/components/Readme%20data/snap4.png)
+![Photo](./IdeakartUsers/Readme%20data/snap1.png)
+![Photo](./IdeakartUsers/Readme%20data/snap2.png)
+![Photo](./IdeakartUsers/Readme%20data/snap3.png)
+![Photo](./IdeakartUsers/Readme%20data/snap4.png)
 
 ## Authors
 
